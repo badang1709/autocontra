@@ -1,7 +1,3 @@
-"""
-@author: Viet Nguyen <nhviet1009@gmail.com>
-"""
-
 import torch
 from src.env import create_train_env
 from src.model import PPO
